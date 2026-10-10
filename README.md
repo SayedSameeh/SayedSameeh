@@ -18,8 +18,9 @@
 <tr>
 <td width="62%">
 
-I like making computers feel a little more capable and a lot more useful. Lately, that means building tools that understand **hand gestures**, work with **speech**, and run **AI locally**.
+I'm interested in software, AI, robotics, and the space where hardware and code come together. I enjoy experimenting with new technologies, breaking things, figuring out why they broke, and turning ideas into projects that actually work.
 
+Always learning, always building, and usually working on more things than I probably should be.
 </td>
 <td width="38%">
 
