@@ -34,52 +34,13 @@ I like making computers feel a little more capable and a lot more useful. Lately
 
 ## 🖥️ My Computer — double-click a project
 
-<table>
-<tr>
-<td width="50%" valign="top">
+<div align="center">
 
-### 👁️ Vision Lab
-**GCDA** · Python
+<img src="./sameeh-os-desktop.svg/projects-windows-desktop.svg" alt="Windows XP style Project Explorer showing four projects" width="100%" />
 
-Control a desktop with real-time hand gestures. Computer vision meets everyday automation.
+**Open a project:** [👁️ GCDA](https://github.com/SayedSameeh/GCDA) · [🎙️ STTTS Translator](https://github.com/SayedSameeh/STTTS-Translator) · [🤖 WhatsApp AI Autoresponder](https://github.com/SayedSameeh/whatsapp-ai-autoresponder) · [🌐 Portfolio](https://github.com/SayedSameeh/sameeh-portfolio)
 
-[OPEN PROJECT ↗](https://github.com/SayedSameeh/GCDA)
-
-</td>
-<td width="50%" valign="top">
-
-### 🎙️ Voice Studio
-**STTTS Translator** · Python
-
-Hindi–Marathi speech translation with local transcription and XTTS text-to-speech.
-
-[OPEN PROJECT ↗](https://github.com/SayedSameeh/STTTS-Translator)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 Local AI
-**WhatsApp AI Autoresponder** · JavaScript
-
-A WhatsApp assistant powered by Node.js, Ollama, and local language models.
-
-[OPEN PROJECT ↗](https://github.com/SayedSameeh/whatsapp-ai-autoresponder)
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 Web Browser
-**My Portfolio** · JavaScript
-
-A little corner of the web for my work and projects.
-
-[OPEN PROJECT ↗](https://github.com/SayedSameeh/sameeh-portfolio)
-
-</td>
-</tr>
-</table>
+</div>
 
 ## 🧰 Control Panel — tools I reach for
 
