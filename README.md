@@ -2,38 +2,103 @@
 
 <img src="./sameeh-os-desktop.svg/sameeh-os-desktop.svg" alt="Sameeh OS — a retro desktop for vision, voice, and local AI projects" width="100%" />
 
-| 🗂️ **File** | ✏️ **Edit** | 👁️ **View** | ❔ **Help** |
-| --- | --- | --- | --- |
-| [Projects](#-my-computer--projects) | [System properties](#-control-panel--system-properties) | [System monitor](#-task-manager--system-monitor) | [GitHub](https://github.com/SayedSameeh) |
+### Welcome to my desktop 👋
+**Sameeh Sayed** · developer building with **vision, voice & local AI**
+
+[![Profile views](https://komarev.com/ghpvc/?username=SayedSameeh&style=flat-square&color=0A64AD&label=VISITORS)](https://github.com/SayedSameeh)
+[![GitHub followers](https://img.shields.io/github/followers/SayedSameeh?style=flat-square&label=FRIENDS&color=2F8F6B)](https://github.com/SayedSameeh?tab=followers)
+[![Portfolio](https://img.shields.io/badge/OPEN-PORTFOLIO-E78A16?style=flat-square)](https://github.com/SayedSameeh/sameeh-portfolio)
 
 </div>
 
 ---
 
-## 📝 Welcome.txt
+<table>
+<tr><td colspan="2"><b>🪟 ABOUT.TXT — a little about me</b></td></tr>
+<tr>
+<td width="62%">
 
-**Hi, I’m Sameeh Sayed.** I enjoy building practical software and exploring how people can interact with computers through vision, voice, and AI.
+I like making computers feel a little more capable and a lot more useful. Lately, that means building tools that understand **hand gestures**, work with **speech**, and run **AI locally**.
 
-> This desktop is a small tour of the things I’ve been building. Pick a shortcut to open a project.
+</td>
+<td width="38%">
 
-## 🖥️ My Computer → Projects
+**CURRENT MODE**<br>
+🟢 Building & learning<br>
+📍 India<br>
+💬 Python · JavaScript
 
-| Desktop shortcut | Window | What it does |
-| --- | --- | --- |
-| 👁️ **Vision Lab** | [Open GCDA](https://github.com/SayedSameeh/GCDA) ↗ | Hands-free desktop control through real-time gesture recognition. |
-| 🎙️ **Voice Studio** | [Open STTTS Translator](https://github.com/SayedSameeh/STTTS-Translator) ↗ | Hindi–Marathi speech translation with local transcription and XTTS text-to-speech. |
-| 🤖 **Local AI** | [Open WhatsApp AI Autoresponder](https://github.com/SayedSameeh/whatsapp-ai-autoresponder) ↗ | WhatsApp replies using Node.js, Ollama, and local language models. |
-| 🌐 **Web Browser** | [Open Portfolio](https://github.com/SayedSameeh/sameeh-portfolio) ↗ | My personal portfolio website. |
+</td>
+</tr>
+</table>
 
-## ⚙️ Control Panel → System properties
+## 🖥️ My Computer — double-click a project
 
-| Property | Value |
-| --- | --- |
-| Languages | Python · JavaScript |
-| Tools | Node.js · Git · GitHub |
-| Interests | Computer vision · Speech · Local AI |
+<table>
+<tr>
+<td width="50%" valign="top">
 
-## 📊 Task Manager → System monitor
+### 👁️ Vision Lab
+**GCDA** · Python
+
+Control a desktop with real-time hand gestures. Computer vision meets everyday automation.
+
+[OPEN PROJECT ↗](https://github.com/SayedSameeh/GCDA)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎙️ Voice Studio
+**STTTS Translator** · Python
+
+Hindi–Marathi speech translation with local transcription and XTTS text-to-speech.
+
+[OPEN PROJECT ↗](https://github.com/SayedSameeh/STTTS-Translator)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Local AI
+**WhatsApp AI Autoresponder** · JavaScript
+
+A WhatsApp assistant powered by Node.js, Ollama, and local language models.
+
+[OPEN PROJECT ↗](https://github.com/SayedSameeh/whatsapp-ai-autoresponder)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Web Browser
+**My Portfolio** · JavaScript
+
+A little corner of the web for my work and projects.
+
+[OPEN PROJECT ↗](https://github.com/SayedSameeh/sameeh-portfolio)
+
+</td>
+</tr>
+</table>
+
+## 🧰 Control Panel — tools I reach for
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-0A64AD?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-E7C547?style=for-the-badge&logo=javascript&logoColor=1C1C1C)
+![Node.js](https://img.shields.io/badge/Node.js-2F8F6B?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Git](https://img.shields.io/badge/Git-C75B39?style=for-the-badge&logo=git&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-566573?style=for-the-badge&logo=ollama&logoColor=white)
+
+</div>
+
+<table>
+<tr><td><b>⚙️ My current interests</b></td><td>Computer vision · Speech interfaces · Local AI</td></tr>
+<tr><td><b>🧪 Currently exploring</b></td><td>Making software more natural to use</td></tr>
+</table>
+
+## 📊 Task Manager — system monitor
 
 <div align="center">
 
@@ -48,6 +113,8 @@
 
 <div align="center">
 
-**🟩 Start**　|　[My GitHub](https://github.com/SayedSameeh)　|　[My Portfolio](https://github.com/SayedSameeh/sameeh-portfolio)　|　**Thanks for visiting!** 👋
+🟩 **START**　　[📁 Projects](#-my-computer--double-click-a-project)　　[⚙️ Control Panel](#-control-panel--tools-i-reach-for)　　[🌐 Portfolio](https://github.com/SayedSameeh/sameeh-portfolio)
+
+<sub>Thanks for stopping by my desktop. Have a great day! ☁️</sub>
 
 </div>
