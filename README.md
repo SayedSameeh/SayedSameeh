@@ -37,7 +37,7 @@ Always learning, always building, and usually working on more things than I prob
 
 <div align="center">
 
-<img src="./sameeh-os-desktop.svg/projects-windows-desktop.svg" alt="Windows XP style Project Explorer showing four projects" width="100%" />
+<img src="./sameeh-os-desktop.svg/projects-windows-desktop.svg" alt="Windows XP style Project Explorer showing five projects" width="100%" />
 
 **Open a project:** [👁️ GCDA](https://github.com/SayedSameeh/GCDA) · [🎙️ STTTS Translator](https://github.com/SayedSameeh/STTTS-Translator) · [🤖 WhatsApp AI Autoresponder](https://github.com/SayedSameeh/whatsapp-ai-autoresponder) · [🌐 Portfolio](https://github.com/SayedSameeh/sameeh-portfolio) · [✍️ Handwriting Replication Studio](https://github.com/SayedSameeh/handwriting-replication-studio)
 
